@@ -6,4 +6,4 @@
 
 in_autotests_we_trust(10, '10')
 
-in_autotests_we_trust(0, False) This is a sample Python script.
+in_autotests_we_trust(0, False) 
